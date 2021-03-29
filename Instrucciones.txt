@@ -1,0 +1,7 @@
+Bienvenidos a mi sistema de bolsa de trabajo!
+
+Debe ser ejecutado desde el localhost, con un servidor local, en mi caso utilicé apache y mysql como base de datos.
+La carpte "Proyecto" debe ser ubicada en "../xampp/htdocs".
+
+Espero lo pueda aprovehar!
+Saludos
