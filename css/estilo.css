@@ -1,0 +1,148 @@
+body {
+	
+	width : 100%;
+	max-width : 1100px;
+	margin :0 auto;
+	
+}
+
+/* --- ALT + 35 = #
+   --- aLT + 91 = []
+*/
+
+header {
+	text-decoration: none;
+} 
+/*header #logo {
+	height: 16vh;
+	float: left;
+		
+}
+
+header #logo img{
+	height: 16vh;
+}*/
+header .menua{
+	height: 16vh;
+	width: 900px;
+	float:center;
+	list-style: none;
+
+	}
+	
+header .menua a{
+		position: relative;
+        top: 10px; right: -370px;
+		font-size: 35;
+		width:250px;
+		display: inline-block;
+		padding: 10px;
+		background: #4096D1;
+		color: #fff;
+	}			
+
+	
+	
+	
+header .menup{
+	height: 16vh;
+	width: 900px;
+	float:center;
+	list-style: none;
+	
+	}
+	
+header .menup a{
+	    position: relative;
+        top: 20px; right: -350px;
+		font-size: 35;
+		width:300px;
+		display: inline-block;
+		padding: 10px;
+		background: #4096D1 ;
+		color: #fff;
+		font-style:none;
+	}		
+
+header .volver {
+	
+    
+	height: 80vh;
+	width: 40px;
+	
+	height: 16vh;
+	float: centre;
+	
+}
+
+header .volver a{
+	position: relative;
+	top: -10px; right: -350px;
+	font-size: 35;
+	display: inline-block;
+    padding: 10px;
+    background: #4096D1 ;
+    color: #fff;
+	
+}
+
+header .verofertasl {
+	height: 80vh;
+	width: 40px;
+	
+	height: 16vh;
+	float: left;
+	
+}
+
+header .verofertasl a{
+	position: relative;
+	top: -10px; right: 0px;
+	font-size: 35;
+	display: inline-block;
+    padding: 10px;
+    background: #4096D1 ;
+    color: #fff;
+	
+	
+	
+}
+
+header .verpost {
+	height: 80vh;
+	width: 40px;
+	
+	height: 16vh;
+	float: right;
+	
+}
+
+header .verpost a{
+	position: relative;
+	top: -10px; right: 0px;
+	font-size: 35;
+	display: inline-block;
+    padding: 10px;
+    background: #4096D1 ;
+    color: #fff;
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
